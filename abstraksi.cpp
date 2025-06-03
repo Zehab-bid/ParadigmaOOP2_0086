@@ -16,5 +16,12 @@ public:
         cout << "x = " << x << endl;
         cout << "y = " << y << endl;
     }
-
 };
+
+int main() {
+    abstraksilas ak;
+    ak.setXY("yogyakarta", "kampus");
+    ak.display();
+
+    return 0
+}
