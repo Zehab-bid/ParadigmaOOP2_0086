@@ -33,4 +33,8 @@ int main() {
     obyek -> pesan();
     obyek = &a;
     obyek -> pesan();
-}
+    //a. seseorang: :pesan();
+    //b. seseorang: :pesan();
+    
+    return 0;
+};
